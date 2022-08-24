@@ -1,0 +1,33 @@
+.homepage {
+    background-image: url(https://www.koch-mit.de/app/uploads/2021/09/croissants-selber-machen.jpg);
+    background-size: cover;
+}
+.container {
+    margin: 20px;
+    padding: 20px;
+    padding-bottom: 40px;
+    background-color: antiquewhite;
+    opacity: 0.8;
+}
+h1 {
+  text-align: center;
+}
+p {
+    text-align: center;
+}
+.navigation {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.navigation a {
+    color: green;
+    margin: 0 15px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 80%;
+}
